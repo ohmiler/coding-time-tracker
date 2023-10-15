@@ -1,10 +1,10 @@
 {
   "name": "miler-coding-time-tracker",
-  "displayName": "miler-coding-time-tracker",
+  "displayName": "Coding Time Tracker",
   "description": "",
   "publisher": "PatrickPan",
   "icon": "images/coding-time-tracker-logo.png",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
   },
